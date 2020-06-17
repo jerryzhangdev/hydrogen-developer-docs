@@ -27,6 +27,11 @@ Base URL
 
 https://api.hydrogenbot.xyz
 
+Rate Limit
+----------
+
+Ratelimit for **everyone**: 60 request per 60 minutes
+
 
 Table of Content
 ================
