@@ -1,6 +1,8 @@
 GET: Authorize
 ==============
 
+Hydrogen will grant you an access token on success.
+
 HTTP METHOD - **GET**
 
 Request URL - https://api.hydrogenbot.xyz/v2/authorize/:userid
