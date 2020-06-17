@@ -19,14 +19,14 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'discord.hy'
+project = 'Hydrogen Developer'
 copyright = '2020, Hydrogen Studio'
 author = 'Hydrogen Studio'
 
 # The short X.Y version
-version = ''
+version = '2.0'
 # The full version, including alpha/beta/rc tags
-release = '10.2.0'
+release = '2.0'
 
 
 # -- General configuration ---------------------------------------------------
