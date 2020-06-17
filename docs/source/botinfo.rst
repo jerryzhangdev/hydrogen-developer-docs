@@ -1,6 +1,8 @@
 GET: Botinfo
 ==============
 
+Get info on the bot including it's statistics.
+
 HTTP METHOD - **GET**
 
 Request URL - https://api.hydrogenbot.xyz/v2/botinfo
