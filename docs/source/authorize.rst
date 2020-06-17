@@ -4,7 +4,7 @@ GET: Authorize
 HTTP METHOD - **GET**
 Request URL - /v2/authorize/:userid
 
-.. list-table:: **Form-Body**
+.. list-table:: **Query Params**
    :widths: 25 25 50
    :header-rows: 1
 
