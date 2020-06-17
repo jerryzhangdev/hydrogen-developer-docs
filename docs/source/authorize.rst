@@ -2,7 +2,7 @@ GET: Authorize
 ==============
 
 HTTP METHOD - **GET**
-Request URL - /v2/authorize/:userid
+Request URL - https://api.hydrogenbot.xyz/v2/authorize/:userid
 
 .. list-table:: **Query Params**
    :widths: 25 25 50
