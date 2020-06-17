@@ -2,6 +2,7 @@ GET: Guildinfo
 ==============
 
 HTTP METHOD - **GET**
+
 Request URL - https://api.hydrogenbot.xyz/v2/guildinfo/:id
 
 .. list-table:: **Headers**
