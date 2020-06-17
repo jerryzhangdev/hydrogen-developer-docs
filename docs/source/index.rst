@@ -16,6 +16,17 @@ Guide
 
 Please use the search or use the table of content below to navigate around!
 
+Switch To V2
+------------
+
+V1 will be deprecated on 6/20/2020 and will stop working. Please migrate to v2 as soon as possible by change v1 in the url to v2 and by obtaining a new auth token.
+
+
+Base URL
+--------
+
+https://api.hydrogenbot.xyz
+
 
 Table of Content
 ================
