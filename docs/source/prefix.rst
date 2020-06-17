@@ -1,6 +1,8 @@
 POST: Prefix
 ==============
 
+Change prefix for a specific server. You must be the server owner to do this
+
 HTTP METHOD - **POST**
 
 Request URL - https://api.hydrogenbot.xyz/v2/prefix
