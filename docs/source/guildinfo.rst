@@ -1,6 +1,8 @@
 GET: Guildinfo
 ==============
 
+Get info on a guild
+
 HTTP METHOD - **GET**
 
 Request URL - https://api.hydrogenbot.xyz/v2/guildinfo/:id
