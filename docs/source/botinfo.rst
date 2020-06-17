@@ -2,7 +2,7 @@ GET: Botinfo
 ==============
 
 HTTP METHOD - **GET**
-Request URL - /v2/botinfo
+Request URL - https://api.hydrogenbot.xyz/v2/botinfo
 **RETURNS**
 
 *200*
