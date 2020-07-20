@@ -1,7 +1,9 @@
 WEBSOCKET
 =========
 
-Hydrogen Websocket is used for developers to create application for realtime message use, for example global chat.
+Hydrogen Websocket is used for developers to create application for realtime Hydrogen Data. The following data type will be sent when you create an connection to our websocket
+
+globalchat - Emitted when someone sent something in global chat
 
 **Request URL**
 
