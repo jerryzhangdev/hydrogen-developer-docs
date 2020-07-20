@@ -3,6 +3,8 @@ WEBSOCKET
 
 Hydrogen Websocket is used for developers to create application for realtime Hydrogen Data. The following data type will be sent when you create an connection to our websocket
 
+Recommended time: 1 request per minutes 
+
 globalchat - Emitted when someone sent something in global chat
 
 commandcreate - Emitted when a command is triggered
