@@ -3,6 +3,10 @@ WEBSOCKET
 
 Hydrogen Websocket is used for developers to create application for realtime message use, for example global chat.
 
+**Request URL**
+
+wss://websocket.hydrogenbot.xyz
+
 **REQUEST EXAMPLE(node.js ws)**
 
 .. code-block:: js
