@@ -6,6 +6,7 @@ Send a message to hydrogen global chat.
 Request URL - wss://websocket.hydrogenbot.xyz
 
 Send Data - { t: "globalsend", b: { Authorization: "Your api token", content: "content to send" } }
+
 **RETURNS**
 
 *200*
