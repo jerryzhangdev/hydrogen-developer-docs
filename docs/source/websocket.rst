@@ -5,6 +5,8 @@ Hydrogen Websocket is used for developers to create application for realtime Hyd
 
 globalchat - Emitted when someone sent something in global chat
 
+commandcreate - Emitted when a command is triggered
+
 **Request URL**
 
 wss://websocket.hydrogenbot.xyz
