@@ -5,7 +5,7 @@ Recommended but not required for websocket access.
 
 Request URL - wss://websocket.hydrogenbot.xyz
 
-Send Data - { t: hello }
+Send Data - { t: "hello" }
 
 **RETURNS**
 
